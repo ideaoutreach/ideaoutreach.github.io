@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "gradcap.png"
+  avatar           : "CAP.jpg"
   name             : "College Application Resources"
   pronouns         : # example: "she/her"  
   bio              : "Resources for prepping, applying and affording college because YOU deserve to go."
