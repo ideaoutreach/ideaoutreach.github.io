@@ -16,7 +16,8 @@ Meet the people behind the site [here](https://ideaoutreach.wixsite.com/meetthet
 YOU deserve to go to college
 ======
 [Commit To College, You're Worth It](https://youtu.be/5HtzllgR_qQ)
-[Is College for me?](https://docs.google.com/document/d/1ZsgO9ipsiVw1Avq8wlrkiFXQZby4J2rC5QkqM104_tM/edit?tab=t.0#heading=h.r7qiv4mnqd4m) 
+
+- [Is College for me?](https://docs.google.com/document/d/1ZsgO9ipsiVw1Avq8wlrkiFXQZby4J2rC5QkqM104_tM/edit?tab=t.0#heading=h.r7qiv4mnqd4m) 
 
 Prepping
 ======
