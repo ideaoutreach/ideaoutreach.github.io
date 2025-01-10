@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Welcome to the College Application Resources Page!"
-author_profile: true
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
