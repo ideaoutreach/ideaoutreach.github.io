@@ -36,10 +36,6 @@ Applying
 - Common Black College App
 - Common App
 
-Resource!
-======
-UStrive - [Free Online Mentoring](https://ustrive.com/)
-
 Affording
 ======
 - Overview of Options
@@ -48,3 +44,7 @@ Affording
 - Maryland-based Grants & Scholarships
 - School-Specifc and Private Need-based Aid
 - Merit-based Aid
+
+Free Resource!
+======
+UStrive - [Free Online Mentoring](https://ustrive.com/)
