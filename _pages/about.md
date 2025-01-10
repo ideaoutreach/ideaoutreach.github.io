@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "About the College Application Resources"
+title: "Welcome to the College Application Resources Page!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome to IDEA Outreach's College Application Resources Page! Here, we created and compiled resources to help you prepare your college applications, understand the application process, and understand how you could afford college. The original page was located [here](https://linktr.ee/ideaoutreach)  
+Here, we created and compiled resources to help you prepare your college applications, understand the application process, and understand how you could afford college. The original information was located [here](https://linktr.ee/ideaoutreach)  
 
 Meet the team!
 ======
