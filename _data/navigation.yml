@@ -6,15 +6,24 @@
 
 main:
   - title: "Prepping"
-    url: /prepping/
+    url: /publications/
 
   - title: "Applying"
-    url: /applying/    
+    url: /talks/    
 
   - title: "Affording"
-    url: /affording/    
+    url: /teaching/    
     
   - title: "Timelines"
-    url: /timelines/
+    url: /portfolio/
+        
+  - title: "Free Resources"
+    url: /year-archive/
+    
+  - title: "Meet the Team"
+    url: /cv/
+    
+#  - title: "Guide"
+#    url: /markdown/
         
 
